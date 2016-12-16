@@ -1,0 +1,222 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MFC_Login.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MFC_LoginDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="TipDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="TipDlg1.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GameDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="PlaneWar.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MyPlane.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MyRect.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Play.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Bomb.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Explosion.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Boss.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Ball.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="MFC_Login.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MFC_LoginDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="TipDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="TipDlg1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GameDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PlaneWar.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MyPlane.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Play.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Bomb.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Explosion.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Boss.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Ball.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="MFC_Login.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\MFC_Login.rc2">
+      <Filter>资源文件</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\MFC_Login.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\bitmap1.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\f0fb.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\background.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\plane.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="image\me.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="image\me1.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\bitmap3.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="image\background7.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\0023007143884738_b.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\bk.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="image\bk.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="image\background5.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="image\bitmap7.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\bk2.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="image\bomb.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="image\bomb1.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="image\enemy1.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="image\enemyDown.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="image\enemy.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="image\explosion.BMP">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="image\boss.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="image\1.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="image\balldown.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="image\protect.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
